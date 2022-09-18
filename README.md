@@ -78,8 +78,8 @@
 <h2 align="center">📈 Github Stats</h2>
 <br/>
 <p align="center">
-    <img align="left" padding=14px width=52% hight=120px src="https://github-readme-stats.vercel.app/api?username=Khaled110&show_icons=true&theme=gotham" alt="Khaled's stats"/>
-    <img align="left" padding=14px width=43.5% hight=50px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled110&layout=compact&theme=gotham" alt="Khaled's stats"/>
+    <img align="left" padding=14px width=47% hight=120px src="https://github-readme-stats.vercel.app/api?username=Khaled110&show_icons=true&theme=gotham" alt="Khaled's stats"/>
+    <img align="left" padding=14px width=39% hight=50px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled110&layout=compact&theme=gotham" alt="Khaled's stats"/>
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p align="center">
