@@ -21,7 +21,7 @@
 <h2 align="center">🤝 Connect with me </h2>
 <div align="center">
     <a href="https://linkedin.com/in/khaled-nabil-9233481a4" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="khaled-nabil-9233481a4"/></a>
-    <a href="mailto:khaledn.selim1011@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khalednabil10"/></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVkzmQPLqNLHLGPNmBKZLHWgCBNxmSnWFNtNvcHrkkPQmRTggczVQxMNTQRpmMxJmflxGh" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khalednabil10"/></a>
     <a href="https://kaggle.com/khalednabil10" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="khalednabil10"/></a>
     <a href="https://www.behance.net/khalednabil10" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="khalednabil10"/></a>
 
