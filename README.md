@@ -75,7 +75,7 @@
 -->
 
 
-<h2 align="center">📈 Github Stats</h2>
+<h2 align="center">📈 Github Stats </h2>
 <br/>
 <p align="center">
     <img align="left" padding=14px width=51% hight=120px src="https://github-readme-stats.vercel.app/api?username=Khaled110&show_icons=true&theme=gotham" alt="Khaled's stats"/>
